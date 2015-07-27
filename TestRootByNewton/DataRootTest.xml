@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+  <TestCase>
+    <number>-56,43</number>
+    <power>3</power>
+    <accurancy>0,95</accurancy>
+  </TestCase>
+  <TestCase>
+    <number>144</number>
+    <power>-1</power>
+    <accurancy>0,95</accurancy>
+  </TestCase>
+  <TestCase>
+    <number>144</number>
+    <power>3</power>
+    <accurancy>-3</accurancy>
+  </TestCase>
+  <TestCase>
+    <number>144</number>
+    <power>3</power>
+    <accurancy>2</accurancy>
+  </TestCase>
+</TestCases>
